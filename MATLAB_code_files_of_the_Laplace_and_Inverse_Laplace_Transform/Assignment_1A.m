@@ -16,3 +16,6 @@ f2 = 3 + 12*t + 42*(t^3) - 3* (exp(2*t))
 F2 = laplace(f2)
 pretty(F2)
 
+f3 = (t + 1)*(t + 2)
+F3 = laplace(f3)
+pretty(F3)
