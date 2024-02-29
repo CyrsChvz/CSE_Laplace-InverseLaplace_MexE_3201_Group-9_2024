@@ -1,5 +1,6 @@
 % Clear
 clear
+clc
 
 %% Solve for the Inverse Laplace Transform
 F4 = (8-3*s+s^2)/s^3
