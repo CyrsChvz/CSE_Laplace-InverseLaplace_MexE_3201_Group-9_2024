@@ -8,3 +8,4 @@ f5 = ilaplace(F5)
 pretty(f5)
 
 F6 = 7/(s^2+6)
+f6 =
